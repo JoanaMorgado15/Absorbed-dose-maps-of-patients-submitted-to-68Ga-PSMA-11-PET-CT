@@ -4,4 +4,4 @@ The main aim of this dissertation was to evaluate the whole-body absorbed doses 
 
 You can read the dissertation here: https://run.unl.pt/bitstream/10362/115381/1/Morgado_2020.pdf
 
-this study also led to the publication and presentation of a poster at the 34th Annual Congress of the European Association of Nuclear Medicine EANM'21.
+This study also led to the publication and presentation of a poster at the 34th Annual Congress of the European Association of Nuclear Medicine EANM'21.
